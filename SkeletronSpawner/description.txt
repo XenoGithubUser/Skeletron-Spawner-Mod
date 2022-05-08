@@ -1,0 +1,3 @@
+This small mod adds a Skeletron Spawn Item so you do not need to use the Clothier Voodoo Doll to spawn it.
+
+1.0 - Release
